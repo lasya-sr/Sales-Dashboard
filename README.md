@@ -1,6 +1,6 @@
 # Retail Operations & Profitability Dashboard
 
-![Dashboard Screenshot](Sales dashboard.jpg)
+![Dashboard Screenshot](Dashboard.jpg)
 
 ## 📖 Project Overview
 This interactive Power BI dashboard analyzes 4,000+ transactional records from a global retail superstore. The project transforms raw sales data into actionable business intelligence, enabling stakeholders to monitor performance across different regions, product categories, and shipping modes.
